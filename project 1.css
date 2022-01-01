@@ -1,0 +1,195 @@
+
+.header{
+    width: 100%;
+    height: 65%;
+    position: relative;
+    float: left;
+    clear: both;
+}
+.logo{
+    position: absolute;
+    padding-left: 25px;
+    margin-top: 10px;
+    float: left;
+}
+.menu{
+    margin-top: 10px;
+   float: right;
+   position: absolute;
+   padding-left: 1000px;
+}
+.menu a{
+    margin-top: 30px;
+    margin-right: 10px;
+	text-decoration: none;
+	color: darkpink;
+    font-size: x-small;
+}
+.img{
+    float: right;
+    position: absolute;
+    clear: both;
+    height: 79%;
+    width: 80%;
+    padding-left: 700px;
+}
+.about{
+    position: absolute;
+    text-align: left;
+    padding-top: 80px;
+    padding-left:200px;
+}
+.h1{
+    color: white;
+}
+.h2{
+    color: darkmagenta;
+}
+.h6{
+    color: white;
+}
+.h3{
+    color: darkmagenta;
+    text-decoration: none;
+}
+.classes{
+    width: 100%;
+    height: 65%;
+    text-align: center;
+    margin-top: 50px;
+}
+.f2{
+    text-align: center;
+    margin-top: 60px;
+}
+.box1{
+    float: left;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.b1{
+    text-align: center;
+}
+.about2{
+    position: absolute;
+    margin-top: 15%;;
+}
+.a2{
+    color: white;
+    text-align: center;
+    padding-left: 350px;
+    margin-top: 60px;
+}
+.a3{
+    text-decoration: none;
+    color: slateblue;
+    text-align: left;
+    padding-left: 500px;
+}
+.r1{
+    text-align: center;
+    margin-top: 40px;
+}
+.side{
+    float: left;
+    width: 30%;
+    background-color: palevioletred;
+    margin-left: 150px;
+}
+.object{
+    text-align: left;
+    width: 50%;
+    height: 5vh;
+    border: 2px solid white ;
+    border-radius: 2em;
+    margin-top: 30px;
+	margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 80px;
+    font-size: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    color: white;
+    font-size: 90%;
+}
+.object2{
+    text-align: center;
+    width: 50%;
+    height: 5vh;
+    border: 2px solid white ;
+    border-radius: 2em;
+    margin-top: 30px;
+	margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 80px;
+    font-size: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: white;
+    font-size: large;
+}
+.img2{
+    float: right;
+    position: absolute;
+    clear: both;
+    padding-left: 550px;
+    margin-top: 60px;
+    padding-right: 10px;
+}
+.about3{
+    position: absolute;
+    margin-top: 200px;
+    text-align: center;
+    padding-left: 200px;
+}
+.ab3{
+    position: relative;
+    text-align: center;
+    padding-left: 0px;
+    margin-top: 30%;
+}
+.a4{
+    color: white;
+    text-align: center;
+    padding-left: 250px;
+    margin-right: 150px;
+}
+.msg{
+    background-color: white;
+    text-align: center;
+}
+.m1{
+    text-align: center;
+    padding-top: 30px;
+}
+.m2{
+    text-align: center;
+    padding-bottom: 20px;
+    word-spacing: 2px;
+}
+.upfooter{
+    background-color: black;
+    width: 100%;
+    height: 65%;
+    position: relative;
+    clear: both;
+    float: left;
+}
+.uf1{
+    position: relative;
+    text-align: center;
+    color: blueviolet;
+}
+.uf2{
+    text-align: center;
+    color: white;
+}
+.uf3{
+    text-align: center;
+    color: white;
+}
+.uf4{
+    text-align: center;
+    color: white;
+}

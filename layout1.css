@@ -1,0 +1,61 @@
+.header{
+    width: 100%;
+    height: 15ph;
+    background-color: blue; 
+}
+.logo{
+    width: 20%;
+    height: 15vh;
+    background-color: brown;
+}
+.main{
+    width: 100%;
+    height: 80vh;
+}
+.sidebar{
+    width: 20%;
+    height: 80vh;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.content{
+    width: 80%;
+    height: 80vh;
+    background-color: darkgrey;
+    float: right;
+}
+.footer{
+    width: 100%;
+    height: 15vh;
+    background-color: black;
+    text-align: center;
+    color: rosybrown;
+    font-size: xx-large;
+    margin-bottom: 70px;
+}
+.menu{
+	float: 80%;
+	font-size: 20px;
+	float: right;
+	padding-top: 30px;  
+}
+.menu a{
+	margin-right: 20px;
+	background: lightgreen;
+	padding: 10px;
+	text-decoration: none;
+	color: red;
+    border-radius: 2em;
+    
+}
+.object{
+    width: 60%;
+    height: 5vh;
+    border: 2px solid ;
+    margin-top: 50px;
+	margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+    text-align: center;
+}
